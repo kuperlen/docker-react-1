@@ -7,4 +7,3 @@ before_install:
 
 script:
   - docker run kuperlen/docker-react npm run test -- --coverage
-  #
